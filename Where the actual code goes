@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+<head>
+This is being used for practice in order to understand to use Git
+</head>
+<body>
+<h1>This is going to be the main header</h1>
+<p>this is this going to be a little paragraph that goes under the header, that's all within the the body.
+<ul>
+<li>notes</li>
+<li>notes</li>
+<li>notes</li>
+</body>

@@ -1,4 +1,5 @@
 <!DOCTYPE html> 
+<html>
 <head>
 This is being used for practice in order to understand to use Git
 </head>
@@ -9,4 +10,6 @@ This is being used for practice in order to understand to use Git
 <li>notes</li>
 <li>notes</li>
 <li>notes</li>
+</ul>
 </body>
+</html>
